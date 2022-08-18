@@ -23,3 +23,6 @@ A .gitignore file will be used if you have already commited something in the pas
 
 ###### Storage of passwords and sensitive information
 I will use store my passwords and sensitive information on my local machine and include it in my .gitignore file to ensure this does not get committed to my public repositories.
+
+####### Reference List
+Added to this repository as Word document.
