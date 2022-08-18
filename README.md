@@ -6,7 +6,7 @@ This repository(CMPG-323-Overview-24136220) will only be used for the overview t
 Additional repositories will be created for each semester project that follows and they will be linked to the main Github project "CMPG-323-Overview".
 
 ### Diagram explaining project and repository context
-
+![image](https://user-images.githubusercontent.com/110819017/185356268-e545ac2a-a9a4-42e9-9546-832492f191ff.png)
 
 #### Branching Strategy
 I have no current branching strategy at the moment. I will develop this as we work through the rest of the projects.
