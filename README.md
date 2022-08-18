@@ -7,6 +7,10 @@ Additional repositories will be created for each semester project that follows a
 
 List of repositories:
 - <a href="https://github.com/AshPrins/CMPG-323-Overview-24136220" target="_blank">CMPG-323-Overview-24136220</a>
+- Project 2 - To be added
+- Project 3 - To be added
+- Project 4 - To be added
+- Project 5 - To be added
 
 ### Diagram explaining project and repository context
 ![image](https://user-images.githubusercontent.com/110819017/185356268-e545ac2a-a9a4-42e9-9546-832492f191ff.png)
