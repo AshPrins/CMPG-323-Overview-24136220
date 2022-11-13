@@ -1,6 +1,11 @@
 # CMPG-323-Overview-24136220
 Overview repository for progress on the different projects throughout the semester.
 
+## Main Project Board
+This is the project board that I used to track my progress of each project over the course of the semester.
+
+- <a href="https://github.com/users/AshPrins/projects/2" target="_blank">@AshPrins's  CMPG-323-Overview</a>
+
 ## Repositories
 This repository(CMPG-323-Overview-24136220) will only be used for the overview throughout the semester, as well as the Portfolio of evidence at the end of the semester.
 Additional repositories will be created for each semester project that follows and they will be linked to the main Github project "CMPG-323-Overview". 
@@ -9,8 +14,8 @@ List of repositories:
 - <a href="https://github.com/AshPrins/CMPG-323-Overview-24136220" target="_blank">CMPG-323-Overview-24136220</a>
 - <a href="https://github.com/AshPrins/CMPG-323-Project-2-24136220" target="_blank">CMPG-323-Project-2-24136220</a>
 - <a href="https://github.com/AshPrins/CMPG-323-Project-3-24136220" target="_blank">CMPG-323-Project-3-24136220</a>
-- Project 4 - To be added
-- Project 5 - To be added
+- <a href="https://github.com/AshPrins/CMPG-323-Project-4-24136220" target="_blank">CMPG-323-Project-4-24136220</a>
+- <a href="https://github.com/AshPrins/CMPG-323-Project-5-24136220" target="_blank">CMPG-323-Project-5-24136220</a>
 
 ### Diagram explaining project and repository context
 ![image](https://user-images.githubusercontent.com/110819017/185356268-e545ac2a-a9a4-42e9-9546-832492f191ff.png)
